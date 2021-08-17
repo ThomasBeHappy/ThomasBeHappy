@@ -8,6 +8,11 @@
 ## Check out my Music API as well!
 [API](https://music.catostudios.nl)
 
+
+
+### Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=ThomasBeHappy)
+
 <!--
 **ThomasBeHappy/ThomasBeHappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
