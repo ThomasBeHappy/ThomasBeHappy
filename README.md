@@ -15,6 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBeHappy)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThomasBeHappy)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GamingFrame)
 
 
