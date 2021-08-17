@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I am Thomas! An 18 year old developer that wastes all of his time making stupid programs.
+
+## I also own my own Web Development Company check it out here!
+[Cato studios](https://catostudios.nl)
+
+## Check out my Music API as well!
+[API](https://music.catostudios.nl)
+
 <!--
 **ThomasBeHappy/ThomasBeHappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
