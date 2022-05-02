@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Thomas! An 18 year old developer that wastes all of his time making stupid programs.
+### I am Thomas! A 19 year old developer that wastes all of his time making stupid programs.
 
 ## I also own my own Web Development Company check it out here!
 [Cato studios](https://catostudios.nl)
