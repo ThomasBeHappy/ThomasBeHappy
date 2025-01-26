@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Thomas! A 21 year old developer that wastes all of his time making stupid programs.
+### I am Thomas! A 22 year old developer that wastes all of his time making stupid programs.
 
 ### Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ThomasBeHappy)
